@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Breakout</string>
+    <string name="high_score">High Score</string>
+    <color name="white">#FFFFFF</color>
+    <string name="title_activity_enter_high_score">EnterHighScore</string>
+    <string name="title_activity_leader_board">LeaderBoardActivity</string>
+</resources>
